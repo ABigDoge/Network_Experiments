@@ -1,0 +1,2 @@
+/media/delirio/FlyMe/Document2.0/计算机网络/grouplab/chapter6/6-5-c/CMakeFiles/server.dir
+/media/delirio/FlyMe/Document2.0/计算机网络/grouplab/chapter6/6-5-c/CMakeFiles/client.dir

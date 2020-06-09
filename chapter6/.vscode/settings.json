@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "cstdio": "c",
+        "cstdlib": "c",
+        "ios": "c",
+        "iostream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "streambuf": "c",
+        "xiosbase": "c",
+        "xlocnum": "c",
+        "xtr1common": "c"
+    }
+}
